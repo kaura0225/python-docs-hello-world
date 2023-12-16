@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'robokitty'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBD7969F969D42E0A0AF8B819EBF853E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89B7965E02F743BFA40B40A8160B01B1 }}
